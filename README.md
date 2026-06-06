@@ -1,4 +1,4 @@
-# 🍷 Wine Quality Predictor
+#  Wine Quality Predictor
 
 ## Project Structure
 
